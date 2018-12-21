@@ -6,3 +6,4 @@ lower case,
 the optimal k was chosen through 10-fold cross validation, i.e.the k-value for which the misclassification error was the lowest ,
 an accuracy of over 90% was achieved for each of the featurizations, don't worry the accuracy was achieved on the test data, don't worry about 
 over fitting.
+the improved model has been added to the repository.
